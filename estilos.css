@@ -65,3 +65,25 @@ h4 {
     width: 600;
     height: 500px;
 }
+
+h5 {
+    font-size: 27px;
+    color: black;
+    font-family: Arial;
+    font-size: 34px
+ }
+ .fondo5 {
+    background-color: pink;
+    width: 350px;
+ }
+
+.contenedor {
+display: flex;
+}
+.peep2 {
+    margin-right: 10px
+    
+}
+.sound {
+    margin-left: 10px;
+}
