@@ -87,3 +87,14 @@ display: flex;
 .sound {
     margin-left: 10px;
 }
+
+h6{  font-size: 40px;
+    color: black;
+    font-family: Arial;
+    font-size: 30px
+
+}
+.fondo6 {
+    background-color: pink;
+    width: 515px;
+ }
