@@ -34,3 +34,18 @@ h2 {
     width: 400;
     height: 250px;
 }
+h3 {
+    font-size: 27px;
+    color: black;
+    font-family: Arial;
+    
+}
+.fondo3 {
+    background-color: pink;
+    width: 350px;
+    
+}
+.dibujo{
+    width: 400;
+    height: 250px;
+}
