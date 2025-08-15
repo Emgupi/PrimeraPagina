@@ -49,3 +49,19 @@ h3 {
     width: 400;
     height: 250px;
 }
+h4 {
+    font-size: 27px;
+    color: black;
+    font-family: Arial;
+    font-size: 30px
+ }
+
+ .fondo4 {
+    background-color: pink;
+    width: 350px;
+    
+}
+.david{
+    width: 600;
+    height: 500px;
+}
