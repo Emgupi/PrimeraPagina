@@ -1,0 +1,36 @@
+body{
+background-image: url(lilpeep1.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.fondo {
+    background-color: pink;
+    width: 350px;
+    
+}
+h1 {
+    color: black;
+    font-family: Arial;
+    font-style: italic;
+}
+p {
+color: white;
+font-family: arial;
+}
+
+h2 {
+    color:black ;
+    font-family: Arial;
+} 
+.fondo2 {
+    background-color: pink;
+    width: 350px;
+    
+}
+.gears5{
+    width: 400;
+    height: 250px;
+}
